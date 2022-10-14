@@ -1,6 +1,6 @@
 # i-need-coffee
 Small project to get acquainted with the asm x86 language.
-![i-need-coffee](#)
+![i-need-coffee](https://raw.githubusercontent.com/GuillaumeMCK/i-need-coffee/main/img/capture.png)
 ## How to build
 ```bash
 $ nasm -f elf32 makeCoffees.asm # Compile the assembly code
