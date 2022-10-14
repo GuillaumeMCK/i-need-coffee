@@ -1,5 +1,5 @@
 # i-need-coffee
-Small project to get acquainted with the asm x86 language.
+Small project to get acquainted with the intel X86 assembly language.
 ![i-need-coffee](https://raw.githubusercontent.com/GuillaumeMCK/i-need-coffee/main/img/capture.png)
 ## How to build
 ```bash
